@@ -3,7 +3,7 @@
 ## Automation Commands
 | Command Group   	| Command Name 	|  Command Description	|
 | ---                | ---           | ---                   |
-|Dictionary Commands|[Add Dictionary Item](/automation-commands/dictionary-commands/add-dictionary-item-command)|This command Adds a key and value to a existing Dictionary|
+|Dictionary Commands|[Add Dictionary Item](../automation-commands/dictionary-commands/add-dictionary-item-command)|This command Adds a key and value to a existing Dictionary|
 |Loop Commands|[Begin Loop](/automation-commands/loop-commands/begin-loop-command)|This command allows you to evaluate a logical statement to determine if the statement is true. The following actions will repeat continuously until that statement becomes false|
 |Loop Commands|[Begin Multi Loop](/automation-commands/loop-commands/begin-multi-loop-command)|This command allows you to evaluate a logical statement to determine if the statement is true. The following actions will repeat continuously until that statement becomes false|
 |Dictionary Commands|[Create Dictionary](/automation-commands/dictionary-commands/create-dictionary-command)|This command created a DataTable with the column names provided|
